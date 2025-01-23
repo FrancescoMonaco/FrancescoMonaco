@@ -1,4 +1,4 @@
-![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=piowithoutblood&count=1&show_user=header)
+[![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=piowithoutblood&count=1&show_user=header&bg_color=)](https://www.last.fm/user/Piowithoutblood)
 
 <!--
 **FrancescoMonaco/FrancescoMonaco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
